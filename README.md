@@ -10,49 +10,15 @@
 
 Our vision is to connect the liquidity across the entire ecosystem, and make it accessible through one unified interface.
 
-
-
-### Where does the yield stem from?
-
-The yield is accumulated from providing liquidity on different platforms deployed on Solana. You can find a more detailed information under the underlying protocols section but the resources of the yields are mainly trading fees, interest rates from lending the funds, or staking the funds in a validator network.
-
-
-
-**similar to an index-fund:** you can also use qPools as an index fund. Similar to Balancer (Ethereum),&#x20;
-
-Depending on the application that you want to go for, qPools is like an Index Fund, where instead of paying a management fee to rebalance the pool, the pool collects fees by parking the assets in yield-generating pools.&#x20;
-
 ### Who are we serving?
 
 qPools aims to serve individuals who want to participate in DeFi, wallet providers who want to allow their end-users to conveniently participate in DeFi, DAO and project reserves that want to utilize a portfolio-mechanism, while generating passive income, as well as more traditional players such as Family Offices, VCs, Hedge Fund and Banks, who want to also participate in the DeFi asset class, for sake of yield generation or diversification. All these actors are considered liquidity providers.
 
 On the other side, if the liquidity provided by the actors above is parked in yield-generating protocols, such as staking protocols, borrow & lending protocols, as well as liquidity mining protocols.&#x20;
 
-
-
-#### one unifying protocol&#x20;
-
-qPools is a unifying platform for a multitude of protocols. We offer a fully customizable allocation platform, where you can reach a manifold of assets with their corresponding APY values and potential risks. You can manage all your assets with ease on our platform.
-
-#### allocate in according to risk
-
-Are you a risk averse person, but still want to take advantage of high yields available in crypto-space ? Or, do you want to take more risk in return of potential greater earnings ? You just need to indicate how risky your portfolio should be, and we allocate your capital in according to your risk profile.
-
-#### sharpe ratio
-
-We calculate periodically the Sharpe Ratio of the products in our portfolio to offer our clients an allocation strategy that maximizes the yields while minimizing the risk.
-
-
-
-## Our Vision
-
-The growing number of products in the DeFi space has caused liquidity to be fragmented over many AMMs, rather than concentrating liquidity around established and efficient products such as the Serum order-book. With qPools, we provide liquidity to several DEXs and strengthen the ecosystem.
-
-
-
 ### Guides: Jump right in
 
-Follow our handy guides to get started on the basics as quickly as possible:
+Follow our handy guides to get started on the basics as quickly as possible. Please note that the guides will be quite sparse until we have launched to mainnet.
 
 {% content-ref url="walkthrough/creating-your-first-portfolio.md" %}
 [creating-your-first-portfolio.md](walkthrough/creating-your-first-portfolio.md)
@@ -62,13 +28,9 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [redeeming-your-portfolio.md](walkthrough/redeeming-your-portfolio.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** If you have any questions, you can always reach us on our [Discord](https://discord.gg/3MBcnrqyBB), or [Twitter](https://twitter.com/qpoolsfinance)
-{% endhint %}
+### Where does the yield stem from?
 
-### Fundamentals: What protocols do we offer to deposit funds to?
-
-We provide to decentralized exchange (DEX) protocols, lending & borrowing protocols and staking protocols. Skip to the following sections to see an extended list of protocols and assets that we offer deposits to.&#x20;
+The yield is accumulated from providing liquidity on different platforms deployed on Solana. You can find a more detailed information under the underlying protocols section but the resources of the yields are mainly trading fees from decentralized exchanges (DEX), interest rates from lending the funds, or staking the funds in a validator network. Skip to the following sections to see an extended list of protocols and assets that we offer deposits to.&#x20;
 
 {% content-ref url="underlying-protocols/dex-protocols.md" %}
 [dex-protocols.md](underlying-protocols/dex-protocols.md)
@@ -82,6 +44,16 @@ We provide to decentralized exchange (DEX) protocols, lending & borrowing protoc
 [staking-protocols.md](underlying-protocols/staking-protocols.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+### Key Features
+
+#### One Unifying Protocol&#x20;
+
+qPools is a unifying platform for a multitude of protocols. We offer a fully customizable allocation platform, where you can reach a manifold of assets with their corresponding APY values and potential risks. You can manage all your assets with ease on our platform.
+
+#### Allocate in According to Risk
+
+Are you a risk averse person, but still want to take advantage of high yields available in crypto-space ? Or, do you want to take more risk in return of potential greater earnings ? You just need to indicate how risky your portfolio should be, and we allocate your capital in according to your risk profile. Our standard suggested portfolio periodically calculates the the Sharpe Ratio of the products in our portfolio to offer our clients an allocation strategy that maximizes the yields while minimizing the risk.
+
+{% hint style="info" %}
+**Good to know:** If you have any questions, you can always reach us on our [Discord](https://discord.gg/3MBcnrqyBB), or [Twitter](https://twitter.com/qpoolsfinance)
+{% endhint %}

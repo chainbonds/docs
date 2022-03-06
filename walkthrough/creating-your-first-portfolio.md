@@ -21,16 +21,8 @@ While our strategy is just a recommendation, you can decide how much should be p
 
 1. You can deposit your assets into pools in such a way to mirror your assets in your wallet.&#x20;
 2. You can
-3.
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+### Supported Wallets
 
-## Connecting your wallet
+Phantom is our preferred wallet, and it is the wallet that we test our application most on. The plugin we use also support the Sollet and Solflare Wallets.
 
-Sollet, Solflare, Phantom
-
-## Creating a project
-
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
