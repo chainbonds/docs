@@ -50,55 +50,25 @@ The growing number of products in the DeFi space has caused liquidity to be frag
 
 
 
-
-
-(1) What is qPools? qPools provides passive income using decentralized finance protocols. In other words, qPools is a yield-aggregator, that also considers risk (in terms volatility). We speak of "portfolios" when allocating USDC (or SOL) to a given number of asset. Our devpost covers our idea most concisely, check it out! [https://devpost.com/software/qpools](https://devpost.com/software/qpools)&#x20;
-
-
-
-(2) What underlying assets are you using right now? Right now we are focusing on liquidity pools on Saber. We intend to scale (a) the number of pools, and once that's done, also (b) scale to other protocols.&#x20;
-
-
-
-(3) Do we do NFTs? Short answer is: Yes. Long answer: We are still in the process of building our product. Given that our NFTs should have utility, based on the product that we're building, we need to first make sure that our product is something people want. As such, our priority is mostly on the product. We are looking into different NFT mechanisms already, however. If you have any ideas, or other dope projects we should know about, put them into the 🚀-nft-launch channel!&#x20;
-
-
-
-(4) I want to invest in the qPools project. When are you raising funds? If you are an investor, VC or fund, please e-mail contact@qpools.finance or DM @David | qPools on discord or write us on twitter. We are currently not focusing on fundraising, but getting to know people is always good in this space.
-
-## Getting Started
-
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
 ### Guides: Jump right in
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-portfolio.md" %}
-[creating-your-first-portfolio.md](guides/creating-your-first-portfolio.md)
+{% content-ref url="walkthrough/creating-your-first-portfolio.md" %}
+[creating-your-first-portfolio.md](walkthrough/creating-your-first-portfolio.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/redeeming-your-portfolio.md" %}
-[redeeming-your-portfolio.md](guides/redeeming-your-portfolio.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="walkthrough/redeeming-your-portfolio.md" %}
+[redeeming-your-portfolio.md](walkthrough/redeeming-your-portfolio.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Good to know:** If you have any questions, you can always reach us on our [Discord](https://discord.gg/3MBcnrqyBB), or [Twitter](https://twitter.com/qpoolsfinance)
 {% endhint %}
 
-### Fundamentals: Dive a little deeper
+### Fundamentals: What protocols do we offer to deposit funds to?
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+We provide to decentralized exchange (DEX) protocols, lending & borrowing protocols and staking protocols. Skip to the following sections to see an extended list of protocols and assets that we offer deposits to.&#x20;
 
 {% content-ref url="underlying-protocols/dex-protocols.md" %}
 [dex-protocols.md](underlying-protocols/dex-protocols.md)
@@ -115,7 +85,3 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}

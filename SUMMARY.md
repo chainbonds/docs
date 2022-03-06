@@ -12,10 +12,10 @@
 * [🏚 For Family Offices & VCs](use-cases/for-family-offices-and-vcs.md)
 * [💹 For (Hedge) Funds & Banks](use-cases/for-hedge-funds-and-banks.md)
 
-## Guides
+## 👨🍳 Walkthrough
 
-* [📊 Creating your first Portfolio](guides/creating-your-first-portfolio.md)
-* [Redeeming your Portfolio](guides/redeeming-your-portfolio.md)
+* [📊 Creating your first Portfolio](walkthrough/creating-your-first-portfolio.md)
+* [Redeeming your Portfolio](walkthrough/redeeming-your-portfolio.md)
 
 ## Underlying Protocols
 
