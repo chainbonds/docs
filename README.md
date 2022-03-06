@@ -10,17 +10,9 @@
 
 Our vision is to connect the liquidity across the entire ecosystem, and make it accessible through one unified interface.
 
-
-
 ### Where does the yield stem from?
 
 The yield is accumulated from providing liquidity on different platforms deployed on Solana. You can find a more detailed information under the underlying protocols section but the resources of the yields are mainly trading fees, interest rates from lending the funds, or staking the funds in a validator network.
-
-
-
-**similar to an index-fund:** you can also use qPools as an index fund. Similar to Balancer (Ethereum),&#x20;
-
-Depending on the application that you want to go for, qPools is like an Index Fund, where instead of paying a management fee to rebalance the pool, the pool collects fees by parking the assets in yield-generating pools.&#x20;
 
 ### Who are we serving?
 
@@ -41,12 +33,6 @@ Are you a risk averse person, but still want to take advantage of high yields av
 #### sharpe ratio
 
 We calculate periodically the Sharpe Ratio of the products in our portfolio to offer our clients an allocation strategy that maximizes the yields while minimizing the risk.
-
-
-
-## Our Vision
-
-The growing number of products in the DeFi space has caused liquidity to be fragmented over many AMMs, rather than concentrating liquidity around established and efficient products such as the Serum order-book. With qPools, we provide liquidity to several DEXs and strengthen the ecosystem.
 
 
 

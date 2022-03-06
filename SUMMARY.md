@@ -4,7 +4,7 @@
 
 ## Use Cases
 
-* [💼 All Uses](use-cases/all-uses.md)
+* [💼 All Use Cases](use-cases/all-use-cases.md)
 * [🙋♀ For Individuals](use-cases/for-individuals.md)
 * [🤸 For Degens](use-cases/for-degens.md)
 * [💸 For Wallet Providers](use-cases/for-wallet-providers.md)
