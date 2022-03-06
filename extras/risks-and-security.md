@@ -18,13 +18,25 @@ qPools deposits assets into underlying protocols to generate yields. These under
 
 ### Price Risks (only when Swapping)
 
-Crypto-assets in general are exposed to market fluctuations. In our portfolio building toolkit, you can&#x20;
+Crypto-assets in general are exposed to market fluctuations. In our portfolio building toolkit, you can decide to also swap your base-assets (i.e. USDC), into other assets. During swaps, slippage and price risks can occur. We plan to integrate Pyth-oracles, and (soon) use Jupyter Exchange to get the best prices, slippage, and least exposure to price risk.&#x20;
 
-The value of your wallet might change due to price variances and other external factors.&#x20;
+
+
+### Market Exposure
+
+Crypto-assets in general are exposed to market fluctuations. If you buy one asset, it might naturally increase, or decrease in value compared to the USDC price. The total net USDC-value of your wallet might change due to price variances and other external factors.&#x20;
 
 
 
 ## Additional Security Mechanisms
 
 The portfolio of any two independent users never shares assets. Although qPools is non-custodian, none of the assets is pooled into a common pool.&#x20;
+
+
+
+{% hint style="info" %}
+**Help us make these documentations better!** If you have any questions, suggestions on what other types of risks are included, that is not listed here, please reach out to us on our [Discord](https://discord.gg/3MBcnrqyBB), or [Twitter](https://twitter.com/qpoolsfinance).
+{% endhint %}
+
+###
 
