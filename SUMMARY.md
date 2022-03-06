@@ -5,12 +5,6 @@
 ## Use Cases
 
 * [💼 All Use Cases](use-cases/all-uses.md)
-* [🙋♀ For Individuals](use-cases/for-individuals.md)
-* [🤸 For Degens](use-cases/for-degens.md)
-* [💸 For Wallet Providers](use-cases/for-wallet-providers.md)
-* [🔏 For Reserves](use-cases/for-reserves.md)
-* [🏚 For Family Offices & VCs](use-cases/for-family-offices-and-vcs.md)
-* [💹 For (Hedge) Funds & Banks](use-cases/for-hedge-funds-and-banks.md)
 
 ## 👨🍳 Walkthrough
 

@@ -1,8 +1,6 @@
 # 📊 Creating your first Portfolio
 
-
-
-There are a couple of dimensions in which you can do that:&#x20;
+Coming Soon! The current text is v0.1. There are a couple of dimensions in which you can do that:&#x20;
 
 ### Swapping to Other Assets
 
@@ -15,12 +13,7 @@ You can select which protocols to deposit into. While we suggest you a risk-mini
 
 ### **Selecting Allocation Percentages**
 
-While our strategy is just a recommendation, you can decide how much should be put into each pool.&#x20;
-
-
-
-1. You can deposit your assets into pools in such a way to mirror your assets in your wallet.&#x20;
-2. You can
+While our strategy is just a recommendation, you can decide how much should be put into each pool. You can deposit your assets into pools in such a way to mirror your assets in your wallet.&#x20;
 
 ### Supported Wallets
 
