@@ -1,3 +1,3 @@
-# 🪙 Redeeming your Portfolio
+# Redeeming your Portfolio
 
 Coming soon!

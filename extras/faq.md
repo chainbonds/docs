@@ -1,5 +1,7 @@
 # ❓ FAQ
 
+Too lazy to read everything? TL;DR right here!
+
 ### 1) What is qPools?&#x20;
 
 qPools is a portfolio building toolkit. It provides passive income using a number of decentralized finance (DeFi) protocols. Specifically, it provides information on yield (APY), as well as volatility and risk.&#x20;
