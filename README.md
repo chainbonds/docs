@@ -1,10 +1,32 @@
 # 👋 What is qPools?
 
-**qPools is a non-custodial, passive-income portfolio-building toolkit on Solana with the vision of connecting the liquidity across the entire ecosystem.**
+### Introduction
+
+qPools is a portfolio-building toolkit with the following properties:
+
+* non-custodial
+* passive-income / yield-generating assets
+* convenient and easy-to-use
+
+
+
+non-custodial, passive-income portfolio-building toolkit on Solana with the vision of connecting the liquidity across the entire ecosystem, by providing liquidity to a number of yield-generating assets.
+
+
+
+
 
 Compared to traditional portfolio-building protocols, the underlying assets and protocols that qPools connect to are protocols from the realm of decentralized finance, which generate passive income.&#x20;
 
 The passive income is accumulated from providing liquidity on different platforms deployed on Solana. You can find a more detailed information under the underlying protocols section but the resources of the yields are mainly trading fees, interest rates from lending the funds, or staking the funds in a validator network.
+
+Depending on the application that you want to go for, qPools is like an Index Fund, where instead of paying a management fee to rebalance the pool, the pool collects fees by parking the assets in yield-generating pools.&#x20;
+
+### Who are we serving?
+
+qPools aims to serve individuals who want to participate in DeFi, wallet providers who want to allow their end-users to conveniently participate in DeFi, DAO and project reserves that want to utilize a portfolio-mechanism, while generating passive income, as well as more traditional players such as Family Offices, VCs, Hedge Fund and Banks, who want to also participate in the DeFi asset class, for sake of yield generation or diversification. All these actors are considered liquidity providers.
+
+On the other side, if the liquidity provided by the actors above is parked in yield-generating protocols, such as staking protocols, borrow & lending protocols, as well as liquidity mining protocols.&#x20;
 
 
 

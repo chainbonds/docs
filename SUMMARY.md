@@ -26,5 +26,5 @@
 ## Extras
 
 * [❓ FAQ](extras/faq.md)
-* [🧗 Risks](extras/risks.md)
+* [🧗 Risks & Security](extras/risks-and-security.md)
 * [🗺 Roadmap](extras/roadmap.md)

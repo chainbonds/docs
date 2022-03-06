@@ -1,4 +1,4 @@
-# 🧗 Risks
+# 🧗 Risks & Security
 
 Risks include:
 
@@ -11,3 +11,10 @@ Like any other programs, smart contracts are also prone to the bugs, which can r
 ### Price Risks
 
 Cryptoassets that you can reach through our platform are exposed to market fluctuations. The value of your wallet might change due to price variances and other external factors.&#x20;
+
+
+
+## Additional Security Mechanisms
+
+The portfolio of any two independent users never shares assets. Although qPools is non-custodian, none of the assets is pooled into a common pool.&#x20;
+
