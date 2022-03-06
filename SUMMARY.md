@@ -4,7 +4,7 @@
 
 ## Use Cases
 
-* [💼 All Use Cases](use-cases/all-use-cases.md)
+* [💼 All Use Cases](use-cases/all-uses.md)
 * [🙋♀ For Individuals](use-cases/for-individuals.md)
 * [🤸 For Degens](use-cases/for-degens.md)
 * [💸 For Wallet Providers](use-cases/for-wallet-providers.md)
@@ -15,7 +15,7 @@
 ## 👨🍳 Walkthrough
 
 * [📊 Creating your first Portfolio](walkthrough/creating-your-first-portfolio.md)
-* [Redeeming your Portfolio](walkthrough/redeeming-your-portfolio.md)
+* [🪙 Redeeming your Portfolio](walkthrough/redeeming-your-portfolio.md)
 
 ## Underlying Protocols
 
