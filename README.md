@@ -10,11 +10,23 @@
 
 Our vision is to connect the liquidity across the entire ecosystem, and make it accessible through one unified interface.
 
+On the other side, it's the liquidity provided by the actors above is parked in yield-generating protocols, such as staking protocols, borrow & lending protocols, as well as liquidity mining protocols.&#x20;
+
 ### Who are we serving?
 
-qPools aims to serve individuals who want to participate in DeFi, wallet providers who want to allow their end-users to conveniently participate in DeFi, DAO and project reserves that want to utilize a portfolio-mechanism, while generating passive income, as well as more traditional players such as Family Offices, VCs, Hedge Fund and Banks, who want to also participate in the DeFi asset class, for sake of yield generation or diversification. All these actors are considered liquidity providers.
+Currently qPools aims to serve the following stakeholders:
 
-On the other side, if the liquidity provided by the actors above is parked in yield-generating protocols, such as staking protocols, borrow & lending protocols, as well as liquidity mining protocols.&#x20;
+* **individuals** who want to participate in DeFi
+* **wallet providers** who want to allow their end-users to conveniently participate in DeFi
+* **DAO and project reserves** that want to utilize a portfolio-mechanism, while generating passive income,&#x20;
+* More traditional players such as **Family Offices and VCs** who want to safely park their money in DeFi
+* **Hedge Fund and Banks**, who want to also participate in the DeFi asset class, for sake of yield generation or diversification.&#x20;
+
+All these actors are considered liquidity providers. You can find a list of use-cases in the following page:
+
+{% content-ref url="use-cases/all-uses.md" %}
+[all-uses.md](use-cases/all-uses.md)
+{% endcontent-ref %}
 
 ### Guides: Jump right in
 
