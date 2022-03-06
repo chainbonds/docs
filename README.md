@@ -16,9 +16,9 @@ On the other side, it's the liquidity provided by the actors above is parked in 
 
 Currently qPools aims to serve the following stakeholders:
 
-* **individuals** who want to participate in DeFi
-* **wallet providers** who want to allow their end-users to conveniently participate in DeFi
-* **DAO and project reserves** that want to utilize a portfolio-mechanism, while generating passive income,&#x20;
+* **Individuals** who want to participate in DeFi
+* **Wallet Providers** who want to allow their end-users to conveniently participate in DeFi
+* **DAOs and Project Reserves** that want to utilize a portfolio-mechanism, while generating passive income,&#x20;
 * More traditional players such as **Family Offices and VCs** who want to safely park their money in DeFi
 * **Hedge Fund and Banks**, who want to also participate in the DeFi asset class, for sake of yield generation or diversification.&#x20;
 
