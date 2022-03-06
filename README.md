@@ -2,23 +2,23 @@
 
 ### Introduction
 
-qPools is a portfolio-building toolkit with the following properties:
+**qPools is a portfolio-building toolkit** with the following properties:
 
-* non-custodial
-* passive-income / yield-generating assets
-* convenient and easy-to-use
+* **non-custodial:** __ qPools never manages or owns assets of you. All your assets are stored on PDAs, so you are the only one who holds power over your assets.
+* **passive-income / yield-generating assets:** All the assets that qPools allows you to invest in are yield-generating. This means that you don't just store wETH, for example, but that the wETH that you store is stored into one yield-generating pool (i.e. staking, or borrow-lending).&#x20;
+* **transparent and convenient:** We make it simple and convenient to deposit assets into our protocol. You can select what yield-generating protocols you want to deposit your assets, and we present you with the APY and volatility statistics for each of these assets. Our go-to-strategy optimizes for Sharpe ratio and is volatility-adjusted for adequate safety for the common user.&#x20;
 
-
-
-non-custodial, passive-income portfolio-building toolkit on Solana with the vision of connecting the liquidity across the entire ecosystem, by providing liquidity to a number of yield-generating assets.
+Our vision is to connect the liquidity across the entire ecosystem, and make it accessible through one unified interface.
 
 
 
+### Where does the yield stem from?
+
+The yield is accumulated from providing liquidity on different platforms deployed on Solana. You can find a more detailed information under the underlying protocols section but the resources of the yields are mainly trading fees, interest rates from lending the funds, or staking the funds in a validator network.
 
 
-Compared to traditional portfolio-building protocols, the underlying assets and protocols that qPools connect to are protocols from the realm of decentralized finance, which generate passive income.&#x20;
 
-The passive income is accumulated from providing liquidity on different platforms deployed on Solana. You can find a more detailed information under the underlying protocols section but the resources of the yields are mainly trading fees, interest rates from lending the funds, or staking the funds in a validator network.
+**similar to an index-fund:** you can also use qPools as an index fund. Similar to Balancer (Ethereum),&#x20;
 
 Depending on the application that you want to go for, qPools is like an Index Fund, where instead of paying a management fee to rebalance the pool, the pool collects fees by parking the assets in yield-generating pools.&#x20;
 
