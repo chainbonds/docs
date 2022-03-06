@@ -8,9 +8,13 @@ We are currently focused to launching to mainnet as soon as possible. The diffic
 
 We will start iterating on customer feedback as much as possible after this first mainnet launch.
 
-
-
 ### 2 NFT Minting
 
 After our mainnet launch, we intend to design and do a NFT minting process, similar to the Lfinity.io flares, where our NFTs carry utility through a game that every NFT holder participates in. More details coming soon!
+
+
+
+{% hint style="info" %}
+**Got questions or suggestions?** Please reach out to us on our [Discord](https://discord.gg/3MBcnrqyBB), or [Twitter](https://twitter.com/qpoolsfinance), we're always happy to hear out new ideas and how we can improve things!
+{% endhint %}
 
