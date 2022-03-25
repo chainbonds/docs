@@ -14,7 +14,7 @@ There are a vast number of borrow & lending protocols on Solana and beyond. Some
 * [Socean Finance](https://www.socean.fi) which also automatically chooses the staking validator such as to best decentralize the Solana network, allowing for best yields and instant stake and unstaking
 * [Lido Finance](https://lido.fi) which works together with a number of validator pools and staking facilities to offer liquid staking tokens for a number of protocols, including Terra, Ethereum, Kusama and Solana&#x20;
 
-In our current iteration we do not implement any Staking Protocols. We are working on integrating with Marinade Finance, however.&#x20;
+In our current iteration we do implement Staking Protocols through Marinade Finance, which optimizes both for yield, and network decentralization of the Solana blockchain.
 
 {% hint style="info" %}
 **Don't see your favorite protocol or have questions?** DM us on Twitter or shoot us an e-mail at contact@qpools.finance and we will get back to you asap!
