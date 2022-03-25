@@ -15,7 +15,7 @@ There are a vast number of borrow & lending protocols on Solana. Some includes:
 * [Jet Protocol](https://www.jetprotocol.io) which also includes a dynamic interest rate model
 * &#x20;[Anchor protocol](https://www.anchorprotocol.com) which provides a low volatility interest rate to the depositors
 
-In our currently Iteration, we do not support and borrow & lending protocols, but might integrate with one of them soon, as soon as we have released our MVP.&#x20;
+In our currently Iteration, we do not support and borrow & lending protocols. We are working on integrating with Larix and Solend, whichever proves to be faster and have better APIs.
 
 {% hint style="info" %}
 **Don't see your favorite protocol or have questions?** DM us on Twitter or shoot us an e-mail at contact@qpools.finance and we will get back to you asap!
